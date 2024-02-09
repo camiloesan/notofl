@@ -1,3 +1,3 @@
 # notofl
 
-A new Flutter project.
+A note app that saves your notes in files. Made with flutter.
